@@ -1,4 +1,1 @@
-fastapi
-uvicorn
-python-dotenv
-pandas
+# Archivo de configuración para requirements.txt
