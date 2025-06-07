@@ -1,1 +1,2 @@
-# Archivo de configuración para run_launcher.py
+# Ejecuta desde Pydroid3 sin Termux
+import main

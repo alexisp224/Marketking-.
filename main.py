@@ -1,1 +1,2 @@
-# main.py - punto de entrada
+# Código principal de MarketKing
+print('Bienvenido a MarketKing, Alexander')
